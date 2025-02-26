@@ -165,7 +165,7 @@ const translations = {
         "contact-card-call-text": "Call us during normal business hours at (555) 892-9403.",
 
         // Footer (shared across pages)
-        "footer-copyright": "Copyright © Nexara Pharma 2023",
+        "footer-copyright": "Copyright © Nexara Pharma 2025",
         "footer-privacy": "Privacy",
         "footer-terms": "Terms",
         "footer-contact": "Contact"
@@ -336,7 +336,7 @@ const translations = {
         "contact-card-call-text": "在正常营业时间拨打 (555) 892-9403 联系我们。",
 
         // Footer (shared across pages)
-        "footer-copyright": "Copyright © Nexara Pharma 2023",
+        "footer-copyright": "Copyright © Nexara Pharma 2025",
         "footer-privacy": "隐私政策",
         "footer-terms": "条款",
         "footer-contact": "联系我们"
