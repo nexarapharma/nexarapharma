@@ -170,7 +170,7 @@ const translations = {
     },
     "zh": {
         // General site-wide translations
-        "title": "诺克思医药",
+        "title": "诺克思创新药",
         "home": "首页",
         "about": "关于我们",
         "company-profile": "公司简介",
