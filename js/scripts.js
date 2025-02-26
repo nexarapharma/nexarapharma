@@ -47,8 +47,6 @@ const translations = {
 
         // Index.html - Testimonial section
         "testimonial-quote": "“Walking with you surpasses darkness and leads to healing!”",
-        "testimonial-name": "Dr. Li Wang",
-        "testimonial-role": "CEO, Founder",
 
         // Index.html - Call to Action section
         "cta-title": "Subscribe to Company News Updates",
@@ -60,7 +58,7 @@ const translations = {
         // Team-ceo.html
         "ceo-page-title": "Dr. Li Wang - CEO - Nexara Pharma",
         "ceo-name": "Dr. Li Wang",
-        "ceo-role": "Founder & Chief Executive Officer",
+        "ceo-role": "Founder & Chief Executive Officer (CEO)",
         "ceo-profile-title": "Profile",
         "ceo-bio-1": "Dr. Li Wang is a Fellow of the American Association for the Study of Liver Diseases (AASLD) and recipient of the American Liver Scholar Award. She has secured over $10 million in research funding and ranks in the top 2% of principal investigators for NIH grants, demonstrating exceptional scientific expertise.",
         "ceo-bio-2": "She has served in multiple authoritative organizations, including AASLD, the American Physiological Society (APS), the American Liver Foundation (ALF), and the American Heart Association (AHA). Additionally, she was President of the SAPA Connecticut Chapter, Secretary of the Chinese American Liver Society, and a reviewer for 27 granting committees, including NIH.",
@@ -218,8 +216,6 @@ const translations = {
 
         // Index.html - Testimonial section
         "testimonial-quote": "“与你同行，胜过黑暗，进入医治！”",
-        "testimonial-name": "王黎 博士",
-        "testimonial-role": "创始人，首席执行官（CEO）",
 
         // Index.html - Call to Action section
         "cta-title": "订阅公司动态新闻",
@@ -231,7 +227,7 @@ const translations = {
         // Team-ceo.html
         "ceo-page-title": "王黎 博士 - CEO - Nexara Pharma",
         "ceo-name": "王黎 博士",
-        "ceo-role": "创始人 & 首席执行官",
+        "ceo-role": "创始人 & 首席执行官（CEO）",
         "ceo-profile-title": "个人档案",
         "ceo-bio-1": "王黎博士是美国肝病研究协会（AASLD）院士，曾荣获美国肝脏学者奖。她获得了超过1000万美元的研究基金，并作为美国国立卫生研究院（NIH）基金最高前2%的首席研究员，展示了卓越的科研能力。",
         "ceo-bio-2": "她曾在多个权威机构任职，包括AASLD、美国生理学会（APS）、美国肝脏基金会（ALF）和美国心脏协会（AHA）。此外，她还担任过前美中药协（SAPA）康州分会会长、华美肝病学会秘书，并在NIH等27个基金委员会担任评委。",
