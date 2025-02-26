@@ -1,7 +1,7 @@
 const translations = {
     "en": {
         // General site-wide translations
-        "title": "Nexara Pharma | Innovative Biotech",
+        "title": "Nexara Pharma",
         "home": "Home",
         "about": "About",
         "company-profile": "Company Profile",
@@ -170,7 +170,7 @@ const translations = {
     },
     "zh": {
         // General site-wide translations
-        "title": "诺克思医药 | 创新生物科技",
+        "title": "诺克思医药",
         "home": "首页",
         "about": "关于我们",
         "company-profile": "公司简介",
