@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="Innovative Technologies at Nexara Pharma" />
     <meta name="author" content="" />
-    <title data-lang="technology-page-title">技术 - 诺克思创新药</title>
+    <title data-lang="technology-page-title">Technology - Nexara Pharma</title>
     <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
     <link href="css/styles.css" rel="stylesheet" />
@@ -25,56 +25,34 @@
                 </div>
 
                 <!-- Target A Section -->
-<!--
                 <div class="row gx-5 align-items-center mb-5">
                     <div class="col-lg-6">
--->
-<div class="mb-5">
-    <div class="container px-5">
                         <h2 class="fw-bolder" data-lang="target-a-title">肝病新药靶点与潜在药物</h2>
                         <p class="lead fw-normal text-muted" data-lang="target-a-text-1">全球首创的靶向治疗方案，针对靶点 A 的创新技术包括肝纤维化早期诊断和药物开发。靶点 A 是纤维化的关键调节因子，通过调控靶点 A，可开辟新的药物研发方向。</p>
                         <p class="lead fw-normal text-muted" data-lang="target-a-text-2">实验数据表明，靶点 A 的调控可显著影响肝功能指标，减轻肝纤维化，为患者提供新的治疗希望。</p>
                     </div>
-                    <!--
                     <div class="col-lg-6 text-center">
                         <img class="img-fluid rounded mb-4" src="assets/A.png" alt="Target A Diagram" />
                         <p class="small text-muted" data-lang="figure-a-caption">图：靶点 A 在肝纤维化中的作用</p>
                     </div>
-                    -->
                 </div>
 
                 <!-- Target B Section -->
-<!--
                 <div class="row gx-5 align-items-center mb-5">
                     <div class="col-lg-6 order-lg-2">
--->
-<div class="mb-5">
-    <div class="container px-5">
                         <h2 class="fw-bolder" data-lang="target-b-title">罕见肝病与癌症创新药物</h2>
-                        <p class="lead fw-normal text-muted">
-                            <span class="fw-bold" data-lang="target-b-text-1-strong">蛋白 B 在原发性硬化性胆管炎（PSC）：</span>
-                            <span data-lang="target-b-text-1">PSC 是一种胆管慢性炎症病变，可导致胆管纤维化、肝衰竭及胆管癌。蛋白 B 在胆管细胞中过表达，促进炎症和纤维化，可能加剧胆管狭窄和硬化。抑制蛋白 B 或可减少瘢痕形成，延缓 PSC 进展。</span>
-                        </p>
-                        <p class="lead fw-normal text-muted">
-                            <span class="fw-bold" data-lang="target-b-text-2-strong">蛋白 B 在原发性胆汁性胆管炎（PBC）：</span>
-                            <span data-lang="target-b-text-2">PBC 是一种慢性自身免疫性肝病，导致胆管损伤和纤维化。蛋白 B 促进 B 细胞活化和免疫反应，成为抗纤维化靶点，其抑制剂有望降低炎症，保护胆管功能。</span>
-                        </p>
-                        <p class="lead fw-normal text-muted">
-                            <span class="fw-bold" data-lang="target-b-text-3-strong">蛋白 B 在多种癌症：</span>
-                            <span data-lang="target-b-text-3">在肺癌、胃癌、胰腺癌和肝细胞癌（HCC）中，蛋白 B 高表达，促进肿瘤侵袭、迁移和耐药性。研究发现，蛋白 B 上调引发 EMT 和细胞存活，RNA 干扰或小分子抑制剂可减少肿瘤生长，已在动物实验中验证疗效。</span>
-                        </p>
+                        <p class="lead fw-normal text-muted" data-lang="target-b-text-1"><strong>蛋白 B 在原发性硬化性胆管炎（PSC）：</strong> PSC 是一种胆管慢性炎症病变，可导致胆管纤维化、肝衰竭及胆管癌。蛋白 B 在胆管细胞中过表达，促进炎症和纤维化，可能加剧胆管狭窄和硬化。抑制蛋白 B 或可减少瘢痕形成，延缓 PSC 进展。</p>
+                        <p class="lead fw-normal text-muted" data-lang="target-b-text-2"><strong>蛋白 B 在原发性胆汁性胆管炎（PBC）：</strong> PBC 是一种慢性自身免疫性肝病，导致胆管损伤和纤维化。蛋白 B 促进 B 细胞活化和免疫反应，成为抗纤维化靶点，其抑制剂有望降低炎症，保护胆管功能。</p>
+                        <p class="lead fw-normal text-muted" data-lang="target-b-text-3"><strong>蛋白 B 在多种癌症：</strong> 在肺癌、胃癌、胰腺癌和肝细胞癌（HCC）中，蛋白 B 高表达，促进肿瘤侵袭、迁移和耐药性。研究发现，蛋白 B 上调引发 EMT 和细胞存活，RNA 干扰或小分子抑制剂可减少肿瘤生长，已在动物实验中验证疗效。</p>
                         <p class="lead fw-normal text-muted" data-lang="target-b-text-4">我们已提交临时专利申请（PPA），正式专利将于 2025 年 12 月前提交。</p>
                     </div>
-                    <!--
                     <div class="col-lg-6 order-lg-1 text-center">
                         <img class="img-fluid rounded mb-4" src="assets/B-cancers.png" alt="Target B Cancers" />
                         <p class="small text-muted" data-lang="figure-b-caption">图：蛋白 B 在癌症中的高表达</p>
                     </div>
-                    -->
                 </div>
 
                 <!-- nMix LNP Section -->
-                <!--
                 <div class="row gx-5 align-items-center">
                     <div class="col-lg-6">
                         <h2 class="fw-bolder" data-lang="nmix-title">新一代脂质纳米递送平台（LNP）</h2>
@@ -86,7 +64,6 @@
                         <p class="small text-muted" data-lang="figure-nmix-caption">图：nMix™ 脂质纳米递送平台</p>
                     </div>
                 </div>
-                -->
             </div>
         </section>
     </main>

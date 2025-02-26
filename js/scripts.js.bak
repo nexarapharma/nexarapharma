@@ -80,20 +80,14 @@ const translations = {
         "technology-page-title": "Technology - Nexara Pharma",
         "technology-title": "Our Technologies",
         "technology-subtitle": "Driving Innovation for the Future",
-        "target-b-title": "Innovative Drugs for Rare Liver Diseases and Cancers",
-        "target-b-text-1-strong": "Protein B in Primary Sclerosing Cholangitis (PSC):",
-        "target-b-text-1": "PSC is a chronic inflammatory bile duct condition that can lead to fibrosis, liver failure, and cholangiocarcinoma. Protein B is overexpressed in bile duct cells, promoting inflammation and fibrosis, potentially exacerbating duct narrowing and sclerosis. Inhibiting Protein B may reduce scarring and slow PSC progression.",
-        "target-b-text-2-strong": "Protein B in Primary Biliary Cholangitis (PBC):",
-        "target-b-text-2": "PBC is a chronic autoimmune liver disease causing bile duct damage and fibrosis. Protein B enhances B-cell activation and immune responses, serving as a potential anti-fibrotic target. Inhibitors of Protein B could reduce inflammation and protect bile duct function.",
-        "target-b-text-3-strong": "Protein B in Multiple Cancers:",
-        "target-b-text-3": "Protein B is highly expressed in lung, gastric, pancreatic, and hepatocellular carcinoma (HCC), promoting tumor invasion, migration, and resistance. Key findings: Protein B upregulation drives tumor proliferation and EMT, enhancing cancer cell migration. By regulating p53 and PI3K/Akt pathways, it supports tumor survival. RNA interference (siRNA) or small molecule inhibitors targeting Protein B reduce tumor growth, with efficacy demonstrated in animal studies.",
-        "target-b-text-4": "We have filed a Provisional Patent Application (PPA). The formal patent application will be submitted by December 2025.",
-
         "target-a-title": "Novel Liver Disease Targets and Potential Drugs",
         "target-a-text-1": "A pioneering targeted therapy globally, our innovative technologies for Target A include early diagnosis and drug development for liver fibrosis. Target A is a key regulator of fibrosis, opening new avenues for drug discovery through its modulation.",
         "target-a-text-2": "Experimental data show that regulating Target A significantly impacts liver function markers, alleviating liver fibrosis and offering new hope for patients.",
         "figure-a-caption": "Figure: Role of Target A in Liver Fibrosis",
         "target-b-title": "Innovative Drugs for Rare Liver Diseases and Cancers",
+        "target-b-text-1": "<strong>Protein B in Primary Sclerosing Cholangitis (PSC):</strong> PSC is a chronic inflammatory bile duct condition that can lead to fibrosis, liver failure, and cholangiocarcinoma. Protein B is overexpressed in bile duct cells, promoting inflammation and fibrosis, potentially exacerbating duct narrowing and sclerosis. Inhibiting Protein B may reduce scarring and slow PSC progression.",
+        "target-b-text-2": "<strong>Protein B in Primary Biliary Cholangitis (PBC):</strong> PBC is a chronic autoimmune liver disease causing bile duct damage and fibrosis. Protein B enhances B-cell activation and immune responses, serving as a potential anti-fibrotic target. Inhibitors of Protein B could reduce inflammation and protect bile duct function.",
+        "target-b-text-3": "<strong>Protein B in Multiple Cancers:</strong> Protein B is highly expressed in lung, gastric, pancreatic, and hepatocellular carcinoma (HCC), promoting tumor invasion, migration, and resistance. Key findings: Protein B upregulation drives tumor proliferation and EMT, enhancing cancer cell migration. By regulating p53 and PI3K/Akt pathways, it supports tumor survival. RNA interference (siRNA) or small molecule inhibitors targeting Protein B reduce tumor growth, with efficacy demonstrated in animal studies.",
         "target-b-text-4": "We have filed a Provisional Patent Application (PPA). The formal patent application will be submitted by December 2025.",
         "figure-b-caption": "Figure: High Expression of Protein B in Cancers",
         "nmix-title": "Next-Generation Lipid Nanoparticle (LNP) Delivery Platform",
@@ -176,12 +170,12 @@ const translations = {
     },
     "zh": {
         // General site-wide translations
-        "title": "诺克思创新药业",
+        "title": "诺克思创新药",
         "home": "首页",
         "about": "关于我们",
         "company-profile": "公司简介",
         "company-profile-title": "公司简介",
-        "company-profile-text": "诺克思创新药业（Nexara Pharma）成立于2025年，是一家专注于肝、肺、肾等诊疗技术的高科技药物研发企业。自主研发突破性创新技术平台，具有自主知识产权的创新靶点 A: 肝、肾、肺纤维化创新诊断平台。融资计划战略投资4000万美金，年化回报率50%+，三年内市场规模增长预期+500%。",
+        "company-profile-text": "诺克思医药（Nexara Pharma）成立于2025年，是一家专注于肝、肺、肾等诊疗技术的高科技药物研发企业。自主研发突破性创新技术平台，具有自主知识产权的创新靶点 A: 肝、肾、肺纤维化创新诊断平台。融资计划战略投资4000万美金，年化回报率50%+，三年内市场规模增长预期+500%。",
         "read-strategy": "了解我们的战略布局",
         "vision": "公司愿景",
         "vision-title": "公司愿景",
@@ -252,17 +246,6 @@ const translations = {
         "coo-bio-4": "凭借深厚的行业背景和国际化视野，她为 Nexara Pharma 的临床研发与产业化提供了强有力的支持，助力公司实现全球竞争力。",
 
         // Technology.html
-        "technology-page-title": "技术 - 诺克思创新药",
-        "technology-title": "我们的技术",
-        "technology-subtitle": "创新驱动未来",
-        "target-b-title": "罕见肝病与癌症创新药物",
-        "target-b-text-1-strong": "蛋白 B 在原发性硬化性胆管炎（PSC）：",
-        "target-b-text-1": "PSC 是一种胆管慢性炎症病变，可导致胆管纤维化、肝衰竭及胆管癌。蛋白 B 在胆管细胞中过表达，促进炎症和纤维化，可能加剧胆管狭窄和硬化。抑制蛋白 B 或可减少瘢痕形成，延缓 PSC 进展。",
-        "target-b-text-2-strong": "蛋白 B 在原发性胆汁性胆管炎（PBC）：",
-        "target-b-text-2": "PBC 是一种慢性自身免疫性肝病，导致胆管损伤和纤维化。蛋白 B 促进 B 细胞活化和免疫反应，成为抗纤维化靶点，其抑制剂有望降低炎症，保护胆管功能。",
-        "target-b-text-3-strong": "蛋白 B 在多种癌症：",
-        "target-b-text-3": "在肺癌、胃癌、胰腺癌和肝细胞癌（HCC）中，蛋白 B 高表达，促进肿瘤侵袭、迁移和耐药性。研究发现，蛋白 B 上调引发 EMT 和细胞存活，RNA 干扰或小分子抑制剂可减少肿瘤生长，已在动物实验中验证疗效。",
-        "target-b-text-4": "我们已提交临时专利申请（PPA），正式专利将于 2025 年 12 月前提交。",
         "technology-page-title": "技术 - Nexara Pharma",
         "technology-title": "我们的技术",
         "technology-subtitle": "创新驱动未来",
@@ -271,6 +254,9 @@ const translations = {
         "target-a-text-2": "实验数据表明，靶点 A 的调控可显著影响肝功能指标，减轻肝纤维化，为患者提供新的治疗希望。",
         "figure-a-caption": "图：靶点 A 在肝纤维化中的作用",
         "target-b-title": "罕见肝病与癌症创新药物",
+        "target-b-text-1": "<strong>蛋白 B 在原发性硬化性胆管炎（PSC）：</strong> PSC 是一种胆管慢性炎症病变，可导致胆管纤维化、肝衰竭及胆管癌。蛋白 B 在胆管细胞中过表达，促进炎症和纤维化，可能加剧胆管狭窄和硬化。抑制蛋白 B 或可减少瘢痕形成，延缓 PSC 进展。",
+        "target-b-text-2": "<strong>蛋白 B 在原发性胆汁性胆管炎（PBC）：</strong> PBC 是一种慢性自身免疫性肝病，导致胆管损伤和纤维化。蛋白 B 促进 B 细胞活化和免疫反应，成为抗纤维化靶点，其抑制剂有望降低炎症，保护胆管功能。",
+        "target-b-text-3": "<strong>蛋白 B 在多种癌症：</strong> 在肺癌、胃癌、胰腺癌和肝细胞癌（HCC）中，蛋白 B 高表达，促进肿瘤侵袭、迁移和耐药性。研究发现，蛋白 B 上调引发 EMT 和细胞存活，RNA 干扰或小分子抑制剂可减少肿瘤生长，已在动物实验中验证疗效。",
         "target-b-text-4": "我们已提交临时专利申请（PPA），正式专利将于 2025 年 12 月前提交。",
         "figure-b-caption": "图：蛋白 B 在癌症中的高表达",
         "nmix-title": "新一代脂质纳米递送平台（LNP）",
@@ -302,7 +288,7 @@ const translations = {
         "news-home-subtitle": "了解 Nexara Pharma 的最新动态",
 
         // News-post.html
-        "news-post-title": "诺克思创新药业2025年投资价值与回报预期",
+        "news-post-title": "诺克思医药2025年投资价值与回报预期",
         "news-post-subtitle": "$40M 美金战略投资，年化回报率 50%+，三年内市场规模增长预期 +500%",
         "news-post-content": "Nexara Pharma 的战略投资计划涉及 4000 万美金（约合 $40M），旨在推动公司在肝病、肿瘤及其他重大疾病治疗领域的研发与产业化。通过这一投资，我们预期实现年化回报率超过 50%，并在未来三年内将市场规模增长预期提升至 +500%。此融资将支持创新药物开发、技术平台优化及全球市场扩展，为股东和患者带来显著价值。",
         "figure-invest-caption": "图表：融资预算计划",
@@ -363,7 +349,7 @@ function getLanguage() {
 
 // 应用语言
 function applyLanguage(lang) {
-    document.title = translations[lang].title;
+    document.title = translations[lang].title || document.title;
 
     const ids = [
         "title", "home", "about", "company-profile", "vision", "team",
@@ -372,26 +358,27 @@ function applyLanguage(lang) {
     ];
     ids.forEach(id => {
         const element = document.getElementById(id);
-        if (element) {
-            element.textContent = translations[lang][id];
+        if (element && !element.textContent.trim()) {
+            element.textContent = translations[lang][id] || '';
         }
     });
 
+    // 使用 innerHTML 保留 HTML 标签
     document.querySelectorAll('[data-lang]').forEach(element => {
         const key = element.getAttribute('data-lang');
         if (translations[lang][key]) {
-            element.textContent = translations[lang][key];
+            element.innerHTML = translations[lang][key]; // 改为 innerHTML
+        }
+    });
+
+    document.querySelectorAll('[data-lang-placeholder]').forEach(element => {
+        const key = element.getAttribute('data-lang-placeholder');
+        if (translations[lang][key]) {
+            element.setAttribute('placeholder', translations[lang][key]);
         }
     });
 
     localStorage.setItem('language', lang);
-
-document.querySelectorAll('[data-lang-placeholder]').forEach(element => {
-    const key = element.getAttribute('data-lang-placeholder');
-    if (translations[lang][key]) {
-        element.setAttribute('placeholder', translations[lang][key]);
-    }
-});
 }
 
 // 平滑滚动到目标，支持 id 和 data-alt-id
