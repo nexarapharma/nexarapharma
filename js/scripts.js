@@ -394,6 +394,25 @@ document.querySelectorAll('[data-lang-placeholder]').forEach(element => {
 });
 }
 
+
+// 平滑滚动到目标，支持 id 和 data-alt-id
+function scrollToTarget(hash) {
+    let target = document.getElementById(hash);
+    if (!target) {
+        target = document.querySelector(`[data-alt-id="${hash}"]`);
+    }
+    if (target) {
+        const offset = 80; // 导航栏高度
+        const targetPosition = target.getBoundingClientRect().top + window.pageYOffset - offset;
+        window.scrollTo({
+            top: targetPosition,
+            behavior: 'smooth'
+        });
+    } else {
+        console.log("Target not found:", hash);
+    }
+}
+
 // 加载 header 并处理所有锚点跳转
 fetch('header.html')
     .then(response => response.text())
