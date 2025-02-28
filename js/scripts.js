@@ -104,7 +104,7 @@ const translations = {
         // Pipeline-overview.html
         "pipeline-overview-page-title": "Pipeline Overview - Nexara Pharma",
         "pipeline-overview-title": "Product Pipeline",
-        "pipeline-overview-subtitle": "We focus on liver disease diagnostics, building a comprehensive product development pipeline.",
+        "pipeline-overview-subtitle": "We focus on liver disease diagnostics, building a comprehensive product development pipeline",
         "pipeline-products-title": "Product Series",
         "pipeline-products-1": "Liver Disease Series: Fatty liver fibrosis diagnostics, early liver cancer screening, Hepatitis B fibrosis diagnostics (including cirrhosis), diabetic liver fibrosis diagnostics",
         "pipeline-products-2": "Lung Disease Series: Lung fibrosis diagnostics",
@@ -281,7 +281,7 @@ const translations = {
         // Pipeline-overview.html
         "pipeline-overview-page-title": "产品管线 - Nexara Pharma",
         "pipeline-overview-title": "产品管线",
-        "pipeline-overview-subtitle": "我们专注于肝病诊断领域，建立了完整的产品开发管线。",
+        "pipeline-overview-subtitle": "我们专注于肝病诊断领域，建立了完整的产品开发管线",
         "pipeline-products-title": "产品系列",
         "pipeline-products-1": "肝病系列产品：脂肪肝纤维化诊断，肝癌早筛，乙肝纤维化诊断（包含肝硬化），糖尿病肝纤维化诊断",
         "pipeline-products-2": "肺病系列产品：肺纤维化诊断",
