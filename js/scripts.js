@@ -25,6 +25,7 @@ const translations = {
         "contact": "Contact",
         "read-more": "Read More",
         "back-to-home": "Back to Home",
+        "back-to-pipeline": "Back to Pipeline Overview",
         "back-to-team": "Back to Team",
         "back-to-news": "Back to News Home",
 
@@ -201,6 +202,7 @@ const translations = {
         "read-more": "阅读全文",
         "back-to-home": "返回主页",
         "back-to-team": "返回团队页面",
+        "back-to-pipeline": "返回研发管线主页",
         "back-to-news": "返回新闻主页",
 
         // Index.html - Header section
