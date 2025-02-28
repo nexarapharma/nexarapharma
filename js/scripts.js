@@ -231,8 +231,8 @@ const translations = {
         "cta-privacy-text": "我们注重隐私保护，不会泄露您的资料",
 
         // Team-ceo.html
-        "ceo-page-title": "王黎 博士 - CEO - Nexara Pharma",
-        "ceo-name": "王黎 博士",
+        "ceo-page-title": "王黎 院士 - CEO - Nexara Pharma",
+        "ceo-name": "王黎 院士",
         "ceo-role": "创始人 & 首席执行官（CEO）",
         "ceo-profile-title": "个人档案",
         "ceo-bio-1": "王黎博士是美国肝病研究协会（AASLD）院士，曾荣获美国肝脏学者奖。她获得了超过1000万美元的研究基金，并作为美国国立卫生研究院（NIH）基金最高前2%的首席研究员，展示了卓越的科研能力。",
