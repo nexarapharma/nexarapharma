@@ -10863,13 +10863,13 @@ html {
 }
 
 .logo {
-    height: 75px; /* 根据你的 logo 大小调整 */
+    height: 72px; /* 根据你的 logo 大小调整 */
     /*vertical-align: middle; /* 让图片和文字垂直居中对齐 */
     width: auto;
 }
 
 .navbar-brand {
-    font-size: 2.5rem; /* 调整字体大小 */
+    font-size: 2.2rem; /* 调整字体大小 */
     font-weight: bold; /* 加粗 */
 }
 
