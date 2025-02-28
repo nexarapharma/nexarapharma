@@ -10863,7 +10863,7 @@ html {
 }
 
 .logo {
-    height: 70px; /* 根据你的 logo 大小调整 */
+    height: 50px; /* 根据你的 logo 大小调整 */
     /*vertical-align: middle; /* 让图片和文字垂直居中对齐 */
     width: auto;
 }
