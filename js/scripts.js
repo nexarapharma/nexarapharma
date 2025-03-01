@@ -57,11 +57,11 @@ const translations = {
         "cta-privacy-text": "We value privacy protection and will not disclose your information",
 
         // Team-ceo.html
-        "ceo-page-title": "Dr. Li Wang - CEO - Nexara Pharma",
-        "ceo-name": "Dr. Li Wang",
+        "ceo-page-title": "Dr. Leah Wang - CEO - Nexara Pharma",
+        "ceo-name": "Dr. Leah Wang",
         "ceo-role": "Founder & Chief Executive Officer (CEO)",
         "ceo-profile-title": "Profile",
-        "ceo-bio-1": "Dr. Li Wang is a Fellow of the American Association for the Study of Liver Diseases (AASLD) and recipient of the American Liver Scholar Award. She has secured over $10 million in research funding and ranks in the top 2% of principal investigators for NIH grants, demonstrating exceptional scientific expertise.",
+        "ceo-bio-1": "Dr. Leah Wang is a Fellow of the American Association for the Study of Liver Diseases (AASLD) and recipient of the American Liver Scholar Award. She has secured over $10 million in research funding and ranks in the top 2% of principal investigators for NIH grants, demonstrating exceptional scientific expertise.",
         "ceo-bio-2": "She has served in multiple authoritative organizations, including AASLD, the American Physiological Society (APS), the American Liver Foundation (ALF), and the American Heart Association (AHA). Additionally, she was President of the SAPA Connecticut Chapter, Secretary of the Chinese American Liver Society, and a reviewer for 27 granting committees, including NIH.",
         "ceo-bio-3": "With over 20 years of academic and research experience, Dr. Wang is a tenured full professor at Yale Liver Center, Yale School of Medicine, and the University of Connecticut. She has conducted liver disease research and drug discovery at top U.S. academic institutions, mentoring over 50 postdoctoral fellows, PhDs, graduate students, and undergraduates, earning more than 50 honors and awards.",
         "ceo-bio-4": "She has published over 120 papers in top-tier journals such as PNAS, Dev Cell, Cell Metab, Gastroenterology, and Hepatology, achieving numerous groundbreaking results with an h-index of 50 and a total citation count of 9754.",
